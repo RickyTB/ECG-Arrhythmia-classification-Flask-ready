@@ -1,3 +1,7 @@
+# ECG-Arrhythmia-classification Ready for deploy
+
+Based on: [ECG-Arrhythmia-classification](https://github.com/XinshaoAmosWang/ECG-Arrhythmia-classification) & [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
+
 # Deploy Keras Model with Flask as Web App in 10 Minutes
 
 [![](https://img.shields.io/badge/python-2.7%2C%203.5%2B-green.svg)]()
